@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-js",
+  "author": "Daniel Williams",
+  "description": "Managing packages with npm",
+  "keywords": ["freecodecamp", "learn", "packages"],
+  "license": "MIT",
+  "version": "1.2.0",
+	"dependencies": {
+    "@freecodecamp/example": "^1.2.13",
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
